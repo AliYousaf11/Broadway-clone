@@ -1,0 +1,35 @@
+.locC{
+    height: 38vh;
+    width: 70vh;
+    position: relative;
+    
+}
+.locC img{
+    border-radius: 15px;
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+.locC .viewbutton{
+    position: absolute;
+    top: -1%;
+    color: black;
+    background: transparent;
+    border: none;
+    outline: none;
+    right: 13%;
+    font-size: 15px;  
+}
+.locC span{
+    position: absolute;
+    top: 7%;
+    right: 8%;
+    font-size: small;
+}
+.locC label{
+    position: absolute;
+    top:7%;
+    left:7%;
+    font-size: 25px;
+    font-weight: bold;
+}

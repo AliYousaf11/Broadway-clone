@@ -1,0 +1,62 @@
+.summerDeal{
+    height: 390px;
+    width: 45vh;
+    margin-left: 2%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    border-radius: 5px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.summerDeal:hover{
+    border-radius: 5px;
+    height: 385px;
+    width: 45vh;
+    margin-left: 2%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.card_image{
+    width: 20%;
+    height: 20%;
+    margin-left: 8%;
+}
+.card_footer{
+    margin-top: 15%;
+}
+.card_title{
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    margin-top: 7%;
+}
+.card_title h5{
+    text-align: center;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+.card_footer{
+    display: flex;
+    width: 100%;
+    position: relative;
+}
+.card_footer .price{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 12%;
+    margin-top: -2%;
+}
+.card_footer .pricebutton{
+    position: absolute;   
+    top: -95%;
+    height: 40px;
+    width: 40px;
+    font-size: 15px !important;
+    right: 7%;
+    padding: 10px;
+    background-color: #FDC800;
+    width: 40%;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}

@@ -1,0 +1,51 @@
+
+.footer{
+    margin-top: 5%;
+    border-top: 1px solid lightgray;
+    display: flex;
+    position: relative;
+    height: 80px;
+    
+    flex-direction: row;
+}
+.logo{
+    filter:grayscale();
+    opacity: 0.5;
+    margin:25px 15px 0px 40px;
+    
+}  
+.logo span img{
+    height: 33px;
+}
+.socialMedia{
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    height: 25%;
+    width: 30%;
+    align-items: center;
+    position: absolute;
+    top:30%;
+    left:33%;
+}
+.socialMedia p{
+    font-size: 10px;
+    margin-left: -5%;
+}
+.socialMedia img{
+    object-fit: contain;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+.contactUS{
+    position: absolute;
+    top:2%;
+    right:0%;
+    height: 70px;
+    width: 100px;
+}
+.contactUS img{
+    width: 100%;
+    height: 100%;
+}

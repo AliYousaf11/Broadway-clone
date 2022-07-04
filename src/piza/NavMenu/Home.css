@@ -1,0 +1,42 @@
+.home{
+    margin-top: 10px;
+    box-sizing: border-box;
+}   
+/* .image{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    display: block;
+    margin: auto;
+    border: none;
+    outline: none;
+} */
+/* .slick-arrow{
+    color: black;
+}
+.slick-prev{
+    z-index: 100;
+    left: 20px !important;
+    filter: invert(1);
+} */
+/* .slick-next{
+    z-index: 100;
+    right: 20px !important;
+    filter: invert(1);
+}
+.innerSlider{
+    padding-right: 1%;
+    padding-left: 1%;
+    outline: none;
+} */
+.SummerDeals{
+    display: flex;
+    margin: auto 0% auto 3%;
+}
+.summer_heading{
+    font-size: 17px;
+    text-transform: uppercase;
+    margin:4% 0% -4% 6.5%;
+    font-size:25px;
+    font-weight: 600;
+}

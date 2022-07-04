@@ -1,0 +1,37 @@
+.Location{
+    margin-top: 0.8%;
+}
+
+.location{
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 5%;
+}
+.row0,.row1,.row2{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 3.5%;
+
+}
+.our{
+    height: 38vh;
+    width: 70vh;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    column-gap: 2rem;
+}
+#p1{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    font-size: 50px;
+}
+#p2{
+    position: absolute;
+    top: 43%;
+    color: green;
+    left: 5%;
+    font-size: 50px;
+    font-weight:600;
+}

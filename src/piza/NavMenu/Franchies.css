@@ -1,0 +1,41 @@
+.Franchies{
+    margin-top: 0.8%;
+}
+
+.franchies{
+    background-color: #FDC800;
+    margin: 2% 5% 10% 5%;
+    border-radius: 15px 15px 10px 10px;
+    
+}
+center h5{
+    margin-top: 5%;
+    font-size: 45px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+form input{
+    border: none;
+    outline: none;
+    width: 98%;
+    border-bottom: 2px solid #FDC800;
+    margin: 0% 0% 0% 1%;
+    padding: 30px 40px;
+}
+input[type="text"]{
+    font-size: 15px;
+    text-align: left;
+}
+button{
+    height: 60px;
+    font-size: 30px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 5%;
+    width: 100px;
+    color: white;
+    background-color:#FDC800;
+    display: inline-block;
+}
